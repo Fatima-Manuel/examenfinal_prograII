@@ -1,0 +1,9 @@
+1. Ayúdame a crear el código de inicio de sesión y registro en React Native.
+
+2. ¿Cómo puedo programar los roles de estudiante y administrador?
+
+3. Ayúdame a crear el código para registrar y solicitar préstamos de equipos.
+
+4. ¿Cómo conecto mi código de React Native con Supabase?
+
+5. Revisa mi código y ayúdame a corregir los errores de conexión con la base de datos.

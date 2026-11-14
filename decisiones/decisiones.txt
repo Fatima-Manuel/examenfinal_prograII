@@ -1,0 +1,15 @@
+a) El proyecto consiste en desarrollar una aplicación en React Native para gestionar el préstamo de equipos de laboratorio.
+Las tablas para la base de datos fueorn diseñadas en Supabase. Los estudiantes podrían registrarse, iniciar sesión, consultar
+ los equipos disponibles y solicitar préstamos, mientras que los administradores tendrían la función de aprobar o rechazar
+solicitudes, consultar los préstamos y registrar las devoluciones.
+
+b) Utilicé la inteligencia artificial como herramienta de apoyo durante el desarrollo del proyecto, principalmente para 
+comprender la estructura del código, identificar errores que aparecían al ejecutar la aplicación y comprender algunos 
+comandos de la terminal de Visual Studio Code.
+
+
+c) Uno de los principales inconvenientes ocurrió durante la configuración de Supabase. Al seguir las indicaciones para 
+utilizar las variables de entorno, la aplicación comenzó a mostrar un error indicando que faltaban las variables 
+necesarias para establecer la conexión. Revisé los archivos .env y .env.local, así como los nombres de las variables 
+EXPO_PUBLIC_SUPABASE_URL y EXPO_PUBLIC_SUPABASE_KEY. También comprobé las rutas de los archivos y ejecuté nuevamente 
+el proyecto desde la terminal.
